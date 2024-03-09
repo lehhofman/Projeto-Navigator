@@ -28,8 +28,16 @@
 
 ## Tela inicial:
 
-![Tela01](./Telas/Tela01.jpeg)
+![Tela01](./Telas/img1.jpeg)
 
-## Tela resultado:
+## Tela escolha:
 
-![Tela01](./Telas/Tela02.jpeg)
+![Tela01](./Telas/img2.jpeg)
+
+## Tela idade:
+
+![Tela01](./Telas/img3.jpeg)
+
+## Tela juros:
+
+![Tela01](./Telas/img4.jpeg)
